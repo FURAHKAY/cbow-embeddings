@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [1000, 50],
+      "tensorPath": "https://raw.githubusercontent.com/FURAHKAY/cbow-embeddings/main/vectors_small.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/FURAHKAY/cbow-embeddings/main/metadata-edited.tsv"
+    }
+  ]
+}
